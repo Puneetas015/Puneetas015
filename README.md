@@ -19,7 +19,7 @@ Currently, I'm working at **SRK (Shree Ramkrishna Exports)** while wrapping up m
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge)
+
 
 **AI & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -32,6 +32,7 @@ Currently, I'm working at **SRK (Shree Ramkrishna Exports)** while wrapping up m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge)
 ---
 
 ### 🚀 Featured Project: NovaFix AI
