@@ -43,12 +43,12 @@ A sophisticated, locally-optimized neural portrait studio pipeline built to scal
 - **Features:** Native facial geometry reconstruction, full-frame background upscaling consistency, and a custom Neural Bokeh step utilizing precise semantic masking for cinematic depth.
 
 ---
-
 ### 📊 GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Puneetas015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Puneet's GitHub Stats" />
 </p> -->
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneetas015&theme=tokyonight&hide_border=true&background=0D1117" alt="Puneet's GitHub Streak" />
 </p>
