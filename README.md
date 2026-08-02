@@ -42,19 +42,9 @@ A sophisticated, locally-optimized neural portrait studio pipeline built to scal
 - **Tech:** Python, GFPGAN v1.3, Real-ESRGAN, MediaPipe Selfie Segmentation, OpenCV
 - **Features:** Native facial geometry reconstruction, full-frame background upscaling consistency, and a custom Neural Bokeh step utilizing precise semantic masking for cinematic depth.
 
----
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneetas015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Puneet's GitHub Stats" />
-</p> -->
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneetas015&theme=tokyonight&hide_border=true&background=0D1117" alt="Puneet's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneetas015&theme=tokyonight&hide_border=true&bg_color=0D1117&color=70a5fd&line=70a5fd&point=ffffff" alt="Puneet's Activity Graph" />
 </p>
-
----
-
 ### 🎬 Fun Fact
 I closely analyze structural patterns, editing variations, and storytelling methodologies in cinematography. This habit of isolating granular details directly maps onto how I structure data pipelines and handle core execution debugging when code breaks under complex workloads.
 
