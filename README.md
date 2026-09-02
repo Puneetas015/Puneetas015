@@ -43,9 +43,7 @@ A sophisticated, locally-optimized neural portrait studio pipeline built to scal
 - **Features:** Native facial geometry reconstruction, full-frame background upscaling consistency, and a custom Neural Bokeh step utilizing precise semantic masking for cinematic depth.
 
 <p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneetas015&show_icons=true&theme=tokyonight&bg_color=090a0f&title_color=f97316&icon_color=ef4444&text_color=94a3b8&border_color=ffffff15" alt="Puneet's GitHub Stats" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneetas015&theme=dark&background=090A0F&border=FFFFFF15&stroke=F97316&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </p>
 ### 🎬 Fun Fact
 I closely analyze structural patterns, editing variations, and storytelling methodologies in cinematography. This habit of isolating granular details directly maps onto how I structure data pipelines and handle core execution debugging when code breaks under complex workloads.
